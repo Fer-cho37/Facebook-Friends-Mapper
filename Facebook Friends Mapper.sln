@@ -1,8 +1,9 @@
-﻿
+﻿https://www.facebook.com/private.profile:=
+facebook.com/intext:nombredeusuario
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2025
 VisualStudioVersion = 12.0.40629.0
-MinimumVisualStudioVersion = 10.0.40219.1
+MinimumVisualStudioVersion = 12.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook Friends Mapper", "Facebook Friends Mapper\Facebook Friends Mapper.csproj", "{A2355CF8-8A66-45DC-A47E-1B77F9E9F799}"
 EndProject
 Global
